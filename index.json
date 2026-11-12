@@ -1,0 +1,40 @@
+{
+  "format": 1,
+  "packs": [
+    {
+      "id": "bluemarble-full",
+      "version": "2004-07.1",
+      "name": "Blue Marble, full resolution",
+      "description": "NASA's Blue Marble image of the Earth at its full resolution, about 1.2 km per pixel instead of the base pack's 4.9 km. Replaces the base pack's Blue Marble while installed.",
+      "licence": "Public domain (NASA)",
+      "bytes": 66560000,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-full-2004-07.1/manifest.json",
+        "sha256": "d1c902be518340c67b5c3bae1f54756f90dad00e47a1e6979dc0cae6913fc9c5",
+        "bytes": 1082
+      },
+      "files": {
+        "bluemarble.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-full-2004-07.1/bluemarble.sqlite"
+      }
+    },
+    {
+      "id": "shoreline-full",
+      "version": "2.3.7.1",
+      "name": "Shoreline, full resolution",
+      "description": "The GSHHG shoreline with its full resolution added from zoom level 8, for detailed coasts and small islands. Replaces the base pack's shoreline while installed.",
+      "licence": "LGPL-3.0-or-later",
+      "bytes": 240500020,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/manifest.json",
+        "sha256": "8116c97103e6f7b6da2b63c81937b3a5ebd56c682eaea50729bc5a08807b77c0",
+        "bytes": 1757
+      },
+      "files": {
+        "licences/gshhg/COPYING.LESSERv3": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/licences.gshhg.COPYING.LESSERv3",
+        "licences/gshhg/LICENSE.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/licences.gshhg.LICENSE.TXT",
+        "licences/gshhg/gpl-3.0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/licences.gshhg.gpl-3.0.txt",
+        "shoreline.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/shoreline.gpkg"
+      }
+    }
+  ]
+}
