@@ -35,6 +35,40 @@
         "licences/gshhg/gpl-3.0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/licences.gshhg.gpl-3.0.txt",
         "shoreline.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/shoreline.gpkg"
       }
+    },
+    {
+      "id": "geoid-egm2008-fine",
+      "version": "2008.1",
+      "name": "EGM2008 geoid, 2.5′",
+      "description": "The EGM2008 geoid at its published 2.5′ grid instead of the base pack's 5′: heights above sea level within a few centimetres of the full model in high mountains, where the base pack's grid can be half a metre off. Replaces the base pack's EGM2008 grid while installed.",
+      "licence": "Public domain (NGA)",
+      "bytes": 13357100,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-egm2008-fine-2008.1/manifest.json",
+        "sha256": "1ce3f7980eaff97828b9c45599c5cda321455df924a5deb357db0a29e8e8d40d",
+        "bytes": 922
+      },
+      "files": {
+        "egm2008.tif": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-egm2008-fine-2008.1/egm2008.tif"
+      }
+    },
+    {
+      "id": "geoid-osgm15",
+      "version": "2015.1",
+      "name": "OSGM15 geoid (Great Britain)",
+      "description": "Ordnance Survey's OSGM15 model of Ordnance Datum Newlyn, the height datum of Great Britain's maps and DEMs (OS Terrain 50, Environment Agency lidar). Adds it to the vertical datums elevation files can be measured from.",
+      "licence": "BSD-2-Clause (Ordnance Survey, via PROJ)",
+      "bytes": 1545760,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.1/manifest.json",
+        "sha256": "88665af7bb73d017b702de4bb972f4cf376d8f65f8e3f2dd8eb71a9ce0a5a7b2",
+        "bytes": 1397
+      },
+      "files": {
+        "licences/osgm15/bsd-2-clause.txt": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.1/licences.osgm15.bsd-2-clause.txt",
+        "licences/osgm15/uk_os_README.txt": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.1/licences.osgm15.uk_os_README.txt",
+        "osgm15.tif": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.1/osgm15.tif"
+      }
     }
   ]
 }
