@@ -18,6 +18,6 @@ pack's entry for `index.json`. Index format and install process:
 | `bluemarble-full` | NASA Blue Marble (July 2004, topography and bathymetry) at full resolution | Public domain (NASA) |
 | `shoreline-full` | GSHHG 2.3.7 shoreline with its full resolution, P. Wessel and W. H. F. Smith | LGPL-3.0-or-later |
 | `geoid-egm2008-fine` | EGM2008 geoid at 2.5′ (NGA, via PROJ), replacing the base pack's 5′ grid | Public domain (NGA) |
-| `geoid-osgm15` | OSGM15 geoid for Ordnance Datum Newlyn, Great Britain (Ordnance Survey, via PROJ) | BSD-2-Clause |
+| `geoid-osgm15` | UK grids: OSGM15 geoid for Ordnance Datum Newlyn and OSTN15 (OSGB36 to ETRS89), Great Britain (Ordnance Survey, via PROJ) | BSD-2-Clause |
 
 Each pack carries its licence notices in `licences/`.

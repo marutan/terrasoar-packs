@@ -18,25 +18,6 @@
       }
     },
     {
-      "id": "shoreline-full",
-      "version": "2.3.7.1",
-      "name": "Shoreline, full resolution",
-      "description": "The GSHHG shoreline with its full resolution added from zoom level 8, for detailed coasts and small islands. Replaces the base pack's shoreline while installed.",
-      "licence": "LGPL-3.0-or-later",
-      "bytes": 240500020,
-      "manifest": {
-        "url": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/manifest.json",
-        "sha256": "8116c97103e6f7b6da2b63c81937b3a5ebd56c682eaea50729bc5a08807b77c0",
-        "bytes": 1757
-      },
-      "files": {
-        "licences/gshhg/COPYING.LESSERv3": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/licences.gshhg.COPYING.LESSERv3",
-        "licences/gshhg/LICENSE.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/licences.gshhg.LICENSE.TXT",
-        "licences/gshhg/gpl-3.0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/licences.gshhg.gpl-3.0.txt",
-        "shoreline.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/shoreline.gpkg"
-      }
-    },
-    {
       "id": "geoid-egm2008-fine",
       "version": "2008.1",
       "name": "EGM2008 geoid, 2.5′",
@@ -54,20 +35,42 @@
     },
     {
       "id": "geoid-osgm15",
-      "version": "2015.1",
-      "name": "OSGM15 geoid (Great Britain)",
-      "description": "Ordnance Survey's OSGM15 model of Ordnance Datum Newlyn, the height datum of Great Britain's maps and DEMs (OS Terrain 50, Environment Agency lidar). Adds it to the vertical datums elevation files can be measured from.",
+      "version": "2015.2",
+      "name": "UK grids: OSGM15 geoid and OSTN15 (Great Britain)",
+      "description": "Ordnance Survey's OSGM15 model of Ordnance Datum Newlyn, the height datum of Great Britain's maps and DEMs (OS Terrain 50, Environment Agency lidar), and OSTN15, the definitive transformation between GPS positions and the National Grid's OSGB36 datum. Adds ODN to the vertical datums elevation files can be measured from, and makes the UK National Grid map projection accurate to about 0.1 m instead of a few metres.",
       "licence": "BSD-2-Clause (Ordnance Survey, via PROJ)",
-      "bytes": 1545760,
+      "bytes": 4586409,
       "manifest": {
-        "url": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.1/manifest.json",
-        "sha256": "88665af7bb73d017b702de4bb972f4cf376d8f65f8e3f2dd8eb71a9ce0a5a7b2",
-        "bytes": 1397
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.2/manifest.json",
+        "sha256": "fa2706f81fe034cccbfe7df38077cd743e11e17093f153db9801bacc94009edc",
+        "bytes": 2680
       },
       "files": {
-        "licences/osgm15/bsd-2-clause.txt": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.1/licences.osgm15.bsd-2-clause.txt",
-        "licences/osgm15/uk_os_README.txt": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.1/licences.osgm15.uk_os_README.txt",
-        "osgm15.tif": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.1/osgm15.tif"
+        "licences/osgm15/bsd-2-clause.txt": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.2/licences.osgm15.bsd-2-clause.txt",
+        "licences/osgm15/uk_os_README.txt": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.2/licences.osgm15.uk_os_README.txt",
+        "licences/ostn15/bsd-2-clause.txt": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.2/licences.ostn15.bsd-2-clause.txt",
+        "licences/ostn15/uk_os_README.txt": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.2/licences.ostn15.uk_os_README.txt",
+        "osgm15.tif": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.2/osgm15.tif",
+        "ostn15.tif": "https://github.com/marutan/terrasoar-packs/releases/download/geoid-osgm15-2015.2/ostn15.tif"
+      }
+    },
+    {
+      "id": "shoreline-full",
+      "version": "2.3.7.1",
+      "name": "Shoreline, full resolution",
+      "description": "The GSHHG shoreline with its full resolution added from zoom level 8, for detailed coasts and small islands. Replaces the base pack's shoreline while installed.",
+      "licence": "LGPL-3.0-or-later",
+      "bytes": 240500020,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/manifest.json",
+        "sha256": "8116c97103e6f7b6da2b63c81937b3a5ebd56c682eaea50729bc5a08807b77c0",
+        "bytes": 1757
+      },
+      "files": {
+        "licences/gshhg/COPYING.LESSERv3": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/licences.gshhg.COPYING.LESSERv3",
+        "licences/gshhg/LICENSE.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/licences.gshhg.LICENSE.TXT",
+        "licences/gshhg/gpl-3.0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/licences.gshhg.gpl-3.0.txt",
+        "shoreline.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/shoreline.gpkg"
       }
     }
   ]
