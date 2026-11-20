@@ -18,6 +18,33 @@
       }
     },
     {
+      "id": "bluemarble-monthly",
+      "version": "2004.1",
+      "name": "Blue Marble, month by month",
+      "description": "NASA's Blue Marble for each month of 2004: snow, ice and vegetation as the seasons change. The Blue Marble layer then shows the month of the program's clock (or a month you choose), about 9.8 km per pixel.",
+      "licence": "Public domain (NASA)",
+      "bytes": 24903680,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/manifest.json",
+        "sha256": "2e647dda6eb884c6c671997be95b4af47e39256387d3eb90909ef0b16f5903ed",
+        "bytes": 12128
+      },
+      "files": {
+        "bluemarble-2004-01.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/bluemarble-2004-01.sqlite",
+        "bluemarble-2004-02.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/bluemarble-2004-02.sqlite",
+        "bluemarble-2004-03.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/bluemarble-2004-03.sqlite",
+        "bluemarble-2004-04.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/bluemarble-2004-04.sqlite",
+        "bluemarble-2004-05.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/bluemarble-2004-05.sqlite",
+        "bluemarble-2004-06.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/bluemarble-2004-06.sqlite",
+        "bluemarble-2004-07.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/bluemarble-2004-07.sqlite",
+        "bluemarble-2004-08.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/bluemarble-2004-08.sqlite",
+        "bluemarble-2004-09.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/bluemarble-2004-09.sqlite",
+        "bluemarble-2004-10.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/bluemarble-2004-10.sqlite",
+        "bluemarble-2004-11.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/bluemarble-2004-11.sqlite",
+        "bluemarble-2004-12.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/bluemarble-monthly-2004.1/bluemarble-2004-12.sqlite"
+      }
+    },
+    {
       "id": "geoid-egm2008-fine",
       "version": "2008.1",
       "name": "EGM2008 geoid, 2.5′",
