@@ -99,6 +99,359 @@
         "licences/gshhg/gpl-3.0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/licences.gshhg.gpl-3.0.txt",
         "shoreline.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/shoreline-full-2.3.7.1/shoreline.gpkg"
       }
+    },
+    {
+      "id": "vmap0-boundaries",
+      "version": "5.1",
+      "name": "VMAP0 boundaries",
+      "description": "International boundaries, disputed boundaries (drawn differently), claim lines, de facto boundaries and the International Date Line, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). Boundaries as compiled then: no statement on any boundary.",
+      "licence": "Public domain (NGA)",
+      "bytes": 4021513,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-boundaries-5.1/manifest.json",
+        "sha256": "fd7014e18538047c6a8f4c0241465d33e270fe06da450e895670cceeee0ef5cf",
+        "bytes": 4587
+      },
+      "files": {
+        "licences/vmap0-eurnasia/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-boundaries-5.1/licences.vmap0-eurnasia.FGDC_DAT.TXT",
+        "licences/vmap0-eurnasia/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-boundaries-5.1/licences.vmap0-eurnasia.README1.TXT",
+        "licences/vmap0-noamer/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-boundaries-5.1/licences.vmap0-noamer.FGDC_DAT.TXT",
+        "licences/vmap0-noamer/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-boundaries-5.1/licences.vmap0-noamer.README1.TXT",
+        "licences/vmap0-noamer/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-boundaries-5.1/licences.vmap0-noamer.vmap0.txt",
+        "licences/vmap0-sasaus/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-boundaries-5.1/licences.vmap0-sasaus.FGDC_DAT.TXT",
+        "licences/vmap0-sasaus/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-boundaries-5.1/licences.vmap0-sasaus.README1.TXT",
+        "licences/vmap0-soamafr/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-boundaries-5.1/licences.vmap0-soamafr.FGDC_DAT.TXT",
+        "licences/vmap0-soamafr/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-boundaries-5.1/licences.vmap0-soamafr.README1.TXT",
+        "vmap0-boundaries.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-boundaries-5.1/vmap0-boundaries.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-transportation",
+      "version": "5.1",
+      "name": "VMAP0 transportation",
+      "description": "Roads (by class), railways, trails, ferry routes, bridges and tunnels, and airports with their names, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000).",
+      "licence": "Public domain (NGA)",
+      "bytes": 109387017,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-transportation-5.1/manifest.json",
+        "sha256": "d2901991c74c40572a50157d94f4a9835e96924cb6cb78e6cb81ad0507023a24",
+        "bytes": 8106
+      },
+      "files": {
+        "licences/vmap0-eurnasia/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-transportation-5.1/licences.vmap0-eurnasia.FGDC_DAT.TXT",
+        "licences/vmap0-eurnasia/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-transportation-5.1/licences.vmap0-eurnasia.README1.TXT",
+        "licences/vmap0-noamer/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-transportation-5.1/licences.vmap0-noamer.FGDC_DAT.TXT",
+        "licences/vmap0-noamer/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-transportation-5.1/licences.vmap0-noamer.README1.TXT",
+        "licences/vmap0-noamer/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-transportation-5.1/licences.vmap0-noamer.vmap0.txt",
+        "licences/vmap0-sasaus/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-transportation-5.1/licences.vmap0-sasaus.FGDC_DAT.TXT",
+        "licences/vmap0-sasaus/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-transportation-5.1/licences.vmap0-sasaus.README1.TXT",
+        "licences/vmap0-soamafr/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-transportation-5.1/licences.vmap0-soamafr.FGDC_DAT.TXT",
+        "licences/vmap0-soamafr/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-transportation-5.1/licences.vmap0-soamafr.README1.TXT",
+        "vmap0-transportation.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-transportation-5.1/vmap0-transportation.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-population",
+      "version": "5.1",
+      "name": "VMAP0 population",
+      "description": "Built-up areas, settlements with their names (shown as labels), and landmarks (lighthouses, ruins, monuments, camps), from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000).",
+      "licence": "Public domain (NGA)",
+      "bytes": 27299081,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-population-5.1/manifest.json",
+        "sha256": "701f1471a2afc53d5b7621a1119f9156d9eef99b4ff5d37779bc4ecc674fbf0d",
+        "bytes": 4655
+      },
+      "files": {
+        "licences/vmap0-eurnasia/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-population-5.1/licences.vmap0-eurnasia.FGDC_DAT.TXT",
+        "licences/vmap0-eurnasia/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-population-5.1/licences.vmap0-eurnasia.README1.TXT",
+        "licences/vmap0-noamer/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-population-5.1/licences.vmap0-noamer.FGDC_DAT.TXT",
+        "licences/vmap0-noamer/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-population-5.1/licences.vmap0-noamer.README1.TXT",
+        "licences/vmap0-noamer/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-population-5.1/licences.vmap0-noamer.vmap0.txt",
+        "licences/vmap0-sasaus/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-population-5.1/licences.vmap0-sasaus.FGDC_DAT.TXT",
+        "licences/vmap0-sasaus/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-population-5.1/licences.vmap0-sasaus.README1.TXT",
+        "licences/vmap0-soamafr/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-population-5.1/licences.vmap0-soamafr.FGDC_DAT.TXT",
+        "licences/vmap0-soamafr/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-population-5.1/licences.vmap0-soamafr.README1.TXT",
+        "vmap0-population.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-population-5.1/vmap0-population.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-other",
+      "version": "5.1",
+      "name": "VMAP0 ice, ground, industry and utilities",
+      "description": "Ice fields, sea ice and ice shelves, sand and lava fields, mines, quarries and oil fields, plants and storage, pipelines and power lines, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000).",
+      "licence": "Public domain (NGA)",
+      "bytes": 66006281,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-other-5.1/manifest.json",
+        "sha256": "8085c687b32f4162799b6e699f25057e453e300d3686860db66727f06a46737a",
+        "bytes": 5997
+      },
+      "files": {
+        "licences/vmap0-eurnasia/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-other-5.1/licences.vmap0-eurnasia.FGDC_DAT.TXT",
+        "licences/vmap0-eurnasia/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-other-5.1/licences.vmap0-eurnasia.README1.TXT",
+        "licences/vmap0-noamer/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-other-5.1/licences.vmap0-noamer.FGDC_DAT.TXT",
+        "licences/vmap0-noamer/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-other-5.1/licences.vmap0-noamer.README1.TXT",
+        "licences/vmap0-noamer/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-other-5.1/licences.vmap0-noamer.vmap0.txt",
+        "licences/vmap0-sasaus/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-other-5.1/licences.vmap0-sasaus.FGDC_DAT.TXT",
+        "licences/vmap0-sasaus/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-other-5.1/licences.vmap0-sasaus.README1.TXT",
+        "licences/vmap0-soamafr/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-other-5.1/licences.vmap0-soamafr.FGDC_DAT.TXT",
+        "licences/vmap0-soamafr/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-other-5.1/licences.vmap0-soamafr.README1.TXT",
+        "vmap0-other.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-other-5.1/vmap0-other.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-hydrography-noamer",
+      "version": "5.1",
+      "name": "VMAP0 hydrography: North America",
+      "description": "Rivers (perennial and intermittent, with names), lakes, land subject to inundation, canals and aqueducts, dams, waterfalls and springs, and coastlines, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). This pack covers VMAP0's North America library; install the regions you want.",
+      "licence": "Public domain (NGA)",
+      "bytes": 134081724,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-noamer-5.1/manifest.json",
+        "sha256": "a4ad2011d5047506150bb9f2a1920cd329f5ecfdc4729c70e88e0de88bb9df7d",
+        "bytes": 5965
+      },
+      "files": {
+        "licences/vmap0-noamer/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-noamer-5.1/licences.vmap0-noamer.FGDC_DAT.TXT",
+        "licences/vmap0-noamer/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-noamer-5.1/licences.vmap0-noamer.README1.TXT",
+        "licences/vmap0-noamer/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-noamer-5.1/licences.vmap0-noamer.vmap0.txt",
+        "vmap0-hydrography.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-noamer-5.1/vmap0-hydrography.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-hydrography-eurnasia",
+      "version": "5.1",
+      "name": "VMAP0 hydrography: Europe and North Asia",
+      "description": "Rivers (perennial and intermittent, with names), lakes, land subject to inundation, canals and aqueducts, dams, waterfalls and springs, and coastlines, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). This pack covers VMAP0's Europe and North Asia library; install the regions you want.",
+      "licence": "Public domain (NGA)",
+      "bytes": 98073794,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-eurnasia-5.1/manifest.json",
+        "sha256": "97b61b7d4fe1d89cffc4b344ba17eb28711ae159e3dd83c33bb663eed9355fa7",
+        "bytes": 5978
+      },
+      "files": {
+        "licences/vmap0-eurnasia/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-eurnasia-5.1/licences.vmap0-eurnasia.FGDC_DAT.TXT",
+        "licences/vmap0-eurnasia/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-eurnasia-5.1/licences.vmap0-eurnasia.README1.TXT",
+        "licences/vmap0-eurnasia/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-eurnasia-5.1/licences.vmap0-eurnasia.vmap0.txt",
+        "vmap0-hydrography.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-eurnasia-5.1/vmap0-hydrography.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-hydrography-soamafr",
+      "version": "5.1",
+      "name": "VMAP0 hydrography: South America, Africa and Antarctica",
+      "description": "Rivers (perennial and intermittent, with names), lakes, land subject to inundation, canals and aqueducts, dams, waterfalls and springs, and coastlines, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). This pack covers VMAP0's South America, Africa and Antarctica library; install the regions you want.",
+      "licence": "Public domain (NGA)",
+      "bytes": 83426495,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-soamafr-5.1/manifest.json",
+        "sha256": "66281a0896be8d19f453d521b1ad4f3b836a9527684d56f4fb66d0fbce9c6e30",
+        "bytes": 5971
+      },
+      "files": {
+        "licences/vmap0-soamafr/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-soamafr-5.1/licences.vmap0-soamafr.FGDC_DAT.TXT",
+        "licences/vmap0-soamafr/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-soamafr-5.1/licences.vmap0-soamafr.README1.TXT",
+        "licences/vmap0-soamafr/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-soamafr-5.1/licences.vmap0-soamafr.vmap0.txt",
+        "vmap0-hydrography.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-soamafr-5.1/vmap0-hydrography.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-hydrography-sasaus",
+      "version": "5.1",
+      "name": "VMAP0 hydrography: South Asia and Australia",
+      "description": "Rivers (perennial and intermittent, with names), lakes, land subject to inundation, canals and aqueducts, dams, waterfalls and springs, and coastlines, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). This pack covers VMAP0's South Asia and Australia library; install the regions you want.",
+      "licence": "Public domain (NGA)",
+      "bytes": 98139324,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-sasaus-5.1/manifest.json",
+        "sha256": "36a1a3a0697e2479a0252e9918b5382532239e40c0f23f64a07b22bf4197dc74",
+        "bytes": 5964
+      },
+      "files": {
+        "licences/vmap0-sasaus/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-sasaus-5.1/licences.vmap0-sasaus.FGDC_DAT.TXT",
+        "licences/vmap0-sasaus/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-sasaus-5.1/licences.vmap0-sasaus.README1.TXT",
+        "licences/vmap0-sasaus/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-sasaus-5.1/licences.vmap0-sasaus.vmap0.txt",
+        "vmap0-hydrography.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-hydrography-sasaus-5.1/vmap0-hydrography.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-elevation-noamer",
+      "version": "5.1",
+      "name": "VMAP0 elevation: North America",
+      "description": "Contour lines (with their heights in metres), spot heights and depth contours, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). This pack covers VMAP0's North America library; install the regions you want.",
+      "licence": "Public domain (NGA)",
+      "bytes": 100486332,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-noamer-5.1/manifest.json",
+        "sha256": "711b9e5f592ca070cf87b39cfdf11197a0952ad86360d3a310012c81db604d4e",
+        "bytes": 3135
+      },
+      "files": {
+        "licences/vmap0-noamer/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-noamer-5.1/licences.vmap0-noamer.FGDC_DAT.TXT",
+        "licences/vmap0-noamer/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-noamer-5.1/licences.vmap0-noamer.README1.TXT",
+        "licences/vmap0-noamer/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-noamer-5.1/licences.vmap0-noamer.vmap0.txt",
+        "vmap0-elevation.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-noamer-5.1/vmap0-elevation.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-elevation-eurnasia",
+      "version": "5.1",
+      "name": "VMAP0 elevation: Europe and North Asia",
+      "description": "Contour lines (with their heights in metres), spot heights and depth contours, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). This pack covers VMAP0's Europe and North Asia library; install the regions you want.",
+      "licence": "Public domain (NGA)",
+      "bytes": 106052802,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-eurnasia-5.1/manifest.json",
+        "sha256": "c8073842ca3964bc4a345eeeb26ba833dde2f33e134fed86f78f35e4bf6e8591",
+        "bytes": 3149
+      },
+      "files": {
+        "licences/vmap0-eurnasia/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-eurnasia-5.1/licences.vmap0-eurnasia.FGDC_DAT.TXT",
+        "licences/vmap0-eurnasia/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-eurnasia-5.1/licences.vmap0-eurnasia.README1.TXT",
+        "licences/vmap0-eurnasia/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-eurnasia-5.1/licences.vmap0-eurnasia.vmap0.txt",
+        "vmap0-elevation.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-eurnasia-5.1/vmap0-elevation.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-elevation-soamafr",
+      "version": "5.1",
+      "name": "VMAP0 elevation: South America, Africa and Antarctica",
+      "description": "Contour lines (with their heights in metres), spot heights and depth contours, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). This pack covers VMAP0's South America, Africa and Antarctica library; install the regions you want.",
+      "licence": "Public domain (NGA)",
+      "bytes": 68996287,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-soamafr-5.1/manifest.json",
+        "sha256": "5035d60ac592fbad29ee4c1d240c6a72ed1bf9c8787232c0c9fb64749df34968",
+        "bytes": 3141
+      },
+      "files": {
+        "licences/vmap0-soamafr/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-soamafr-5.1/licences.vmap0-soamafr.FGDC_DAT.TXT",
+        "licences/vmap0-soamafr/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-soamafr-5.1/licences.vmap0-soamafr.README1.TXT",
+        "licences/vmap0-soamafr/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-soamafr-5.1/licences.vmap0-soamafr.vmap0.txt",
+        "vmap0-elevation.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-soamafr-5.1/vmap0-elevation.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-elevation-sasaus",
+      "version": "5.1",
+      "name": "VMAP0 elevation: South Asia and Australia",
+      "description": "Contour lines (with their heights in metres), spot heights and depth contours, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). This pack covers VMAP0's South Asia and Australia library; install the regions you want.",
+      "licence": "Public domain (NGA)",
+      "bytes": 111512764,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-sasaus-5.1/manifest.json",
+        "sha256": "b6db006f3c0ad714a1d388728d05396067f47e9c3b04c7817119ba4c70a0dc22",
+        "bytes": 3135
+      },
+      "files": {
+        "licences/vmap0-sasaus/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-sasaus-5.1/licences.vmap0-sasaus.FGDC_DAT.TXT",
+        "licences/vmap0-sasaus/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-sasaus-5.1/licences.vmap0-sasaus.README1.TXT",
+        "licences/vmap0-sasaus/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-sasaus-5.1/licences.vmap0-sasaus.vmap0.txt",
+        "vmap0-elevation.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-elevation-sasaus-5.1/vmap0-elevation.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-vegetation-noamer",
+      "version": "5.1",
+      "name": "VMAP0 vegetation: North America",
+      "description": "Woodland (deciduous, evergreen, mixed), cropland, grassland and scrub, marsh and swamp, and tundra, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). This pack covers VMAP0's North America library; install the regions you want.",
+      "licence": "Public domain (NGA)",
+      "bytes": 119975100,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-noamer-5.1/manifest.json",
+        "sha256": "ca39b52a44baf6b66866b8631c3715b2db00a129ee9637314a6a6e90b1b544c5",
+        "bytes": 3346
+      },
+      "files": {
+        "licences/vmap0-noamer/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-noamer-5.1/licences.vmap0-noamer.FGDC_DAT.TXT",
+        "licences/vmap0-noamer/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-noamer-5.1/licences.vmap0-noamer.README1.TXT",
+        "licences/vmap0-noamer/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-noamer-5.1/licences.vmap0-noamer.vmap0.txt",
+        "vmap0-vegetation.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-noamer-5.1/vmap0-vegetation.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-vegetation-eurnasia",
+      "version": "5.1",
+      "name": "VMAP0 vegetation: Europe and North Asia",
+      "description": "Woodland (deciduous, evergreen, mixed), cropland, grassland and scrub, marsh and swamp, and tundra, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). This pack covers VMAP0's Europe and North Asia library; install the regions you want.",
+      "licence": "Public domain (NGA)",
+      "bytes": 142740674,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-eurnasia-5.1/manifest.json",
+        "sha256": "47400c4a9cc8a8df0493d1156db40b0f9eb5ea1737262ede5e5dc14ea3afdb5d",
+        "bytes": 3360
+      },
+      "files": {
+        "licences/vmap0-eurnasia/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-eurnasia-5.1/licences.vmap0-eurnasia.FGDC_DAT.TXT",
+        "licences/vmap0-eurnasia/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-eurnasia-5.1/licences.vmap0-eurnasia.README1.TXT",
+        "licences/vmap0-eurnasia/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-eurnasia-5.1/licences.vmap0-eurnasia.vmap0.txt",
+        "vmap0-vegetation.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-eurnasia-5.1/vmap0-vegetation.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-vegetation-soamafr",
+      "version": "5.1",
+      "name": "VMAP0 vegetation: South America, Africa and Antarctica",
+      "description": "Woodland (deciduous, evergreen, mixed), cropland, grassland and scrub, marsh and swamp, and tundra, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). This pack covers VMAP0's South America, Africa and Antarctica library; install the regions you want.",
+      "licence": "Public domain (NGA)",
+      "bytes": 84896959,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-soamafr-5.1/manifest.json",
+        "sha256": "57654497709645e4bc896afea9d0f0d932f7b973e95ca59b85f5b25caf01dae4",
+        "bytes": 3352
+      },
+      "files": {
+        "licences/vmap0-soamafr/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-soamafr-5.1/licences.vmap0-soamafr.FGDC_DAT.TXT",
+        "licences/vmap0-soamafr/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-soamafr-5.1/licences.vmap0-soamafr.README1.TXT",
+        "licences/vmap0-soamafr/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-soamafr-5.1/licences.vmap0-soamafr.vmap0.txt",
+        "vmap0-vegetation.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-soamafr-5.1/vmap0-vegetation.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-vegetation-sasaus",
+      "version": "5.1",
+      "name": "VMAP0 vegetation: South Asia and Australia",
+      "description": "Woodland (deciduous, evergreen, mixed), cropland, grassland and scrub, marsh and swamp, and tundra, from NGA's Vector Map Level 0 (1:1,000,000, edition 5, 2000). This pack covers VMAP0's South Asia and Australia library; install the regions you want.",
+      "licence": "Public domain (NGA)",
+      "bytes": 86273212,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-sasaus-5.1/manifest.json",
+        "sha256": "d5420865ff5f63730764dd0086d9e04b990c2d535205bcd2064d03e056c317bc",
+        "bytes": 3345
+      },
+      "files": {
+        "licences/vmap0-sasaus/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-sasaus-5.1/licences.vmap0-sasaus.FGDC_DAT.TXT",
+        "licences/vmap0-sasaus/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-sasaus-5.1/licences.vmap0-sasaus.README1.TXT",
+        "licences/vmap0-sasaus/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-sasaus-5.1/licences.vmap0-sasaus.vmap0.txt",
+        "vmap0-vegetation.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-vegetation-sasaus-5.1/vmap0-vegetation.gpkg"
+      }
+    },
+    {
+      "id": "vmap0-admin",
+      "version": "5.1",
+      "name": "VMAP0 administrative areas (ESRI)",
+      "description": "First-order administrative boundaries (states, provinces) and named administrative areas from VMAP0 edition 5. These features are ESRI's intellectual property, licensed for internal or non-commercial use only (ESRI Data License Agreement, included).",
+      "licence": "ESRI Data License Agreement (internal or non-commercial use only)",
+      "bytes": 76549385,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/manifest.json",
+        "sha256": "7da5a8f123228597d073303f8e968f792143ac0abd0e63fc73bf895aa7f259f7",
+        "bytes": 4163
+      },
+      "files": {
+        "licences/vmap0-eurnasia/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/licences.vmap0-eurnasia.FGDC_DAT.TXT",
+        "licences/vmap0-eurnasia/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/licences.vmap0-eurnasia.README1.TXT",
+        "licences/vmap0-noamer/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/licences.vmap0-noamer.FGDC_DAT.TXT",
+        "licences/vmap0-noamer/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/licences.vmap0-noamer.README1.TXT",
+        "licences/vmap0-noamer/vmap0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/licences.vmap0-noamer.vmap0.txt",
+        "licences/vmap0-sasaus/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/licences.vmap0-sasaus.FGDC_DAT.TXT",
+        "licences/vmap0-sasaus/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/licences.vmap0-sasaus.README1.TXT",
+        "licences/vmap0-soamafr/FGDC_DAT.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/licences.vmap0-soamafr.FGDC_DAT.TXT",
+        "licences/vmap0-soamafr/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/licences.vmap0-soamafr.README1.TXT",
+        "vmap0-admin.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/vmap0-admin.gpkg"
+      }
     }
   ]
 }
