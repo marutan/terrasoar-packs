@@ -28,5 +28,15 @@ pack's entry for `index.json`. Index format and install process:
 | `vmap0-elevation-noamer`, `-eurnasia`, `-soamafr`, `-sasaus` | VMAP0: contours, spot heights and depth contours, one pack per library | Public domain (NGA) |
 | `vmap0-vegetation-noamer`, `-eurnasia`, `-soamafr`, `-sasaus` | VMAP0: woodland, cropland, grassland and scrub, marsh and swamp, and tundra, one pack per library | Public domain (NGA) |
 | `vmap0-admin` | VMAP0's first-order administrative boundaries (states, provinces) and named administrative areas, which are ESRI's, kept apart from the public-domain packs | ESRI Data License Agreement (internal or non-commercial use only) |
+| `naturalearth-10m` | Natural Earth 1:10m map layers: rivers, lakes, places, roads, railways, airports, ports, time zones, state borders, peaks | Public domain (Natural Earth) |
+| `naturalearth-relief`, `-hypsometric`, `-shaded-relief` | Natural Earth's 1:10m raster maps: Natural Earth I, cross-blended hypsometric tints, grey shaded relief | Public domain (Natural Earth) |
+| `blackmarble` | NASA Black Marble, the Earth at night, 2012 and 2016 at 3 km | Public domain (NASA) |
+| `wdbii` | WDBII borders, rivers and canals from GSHHG 2.3.7, P. Wessel and W. H. F. Smith | LGPL-3.0-or-later |
+| `ourairports` | OurAirports airports, runways and navigation aids, 2026-11-22 | Public domain (Unlicense) |
+| `names` | Place and feature names: NGA GNS outside the US, USGS GNIS in it | Public domain (US government works) |
+| `elevation-etopo-30s` | ETOPO 2022 at 30″, replacing the base pack's terrain | CC0-1.0 (NOAA) |
+| `gebco-w180-w90`, `-w90-0`, `-0-e90`, `-e90-e180` | The GEBCO 2026 Grid at 15″ (land and sea floor), one pack per quarter of the world, read together as one layer | Public domain (GEBCO) |
 
-Each pack carries its licence notices in `licences/`.
+Each pack carries its licence notices in `licences/`. The raw sources of
+every pack, with their licences, are kept in
+[marutan/terrasoar-packs-sources](https://github.com/marutan/terrasoar-packs-sources).

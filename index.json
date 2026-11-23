@@ -452,6 +452,226 @@
         "licences/vmap0-soamafr/README1.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/licences.vmap0-soamafr.README1.TXT",
         "vmap0-admin.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/vmap0-admin-5.1/vmap0-admin.gpkg"
       }
+    },
+    {
+      "id": "wdbii",
+      "version": "2.3.7.1",
+      "name": "WDBII borders and rivers",
+      "description": "National, internal and maritime boundaries, rivers (permanent and intermittent) and canals from the World Data Bank II, as GSHHG 2.3.7 distributes it, at five resolutions down to the full one. The borders are those of the 1980s.",
+      "licence": "LGPL-3.0-or-later",
+      "bytes": 93285684,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/wdbii-2.3.7.1/manifest.json",
+        "sha256": "c352f67d59ad24eba92d81570e3fe5272a9431697a65f3ebdd851f211522a2a5",
+        "bytes": 5045
+      },
+      "files": {
+        "licences/gshhg/COPYING.LESSERv3": "https://github.com/marutan/terrasoar-packs/releases/download/wdbii-2.3.7.1/licences.gshhg.COPYING.LESSERv3",
+        "licences/gshhg/LICENSE.TXT": "https://github.com/marutan/terrasoar-packs/releases/download/wdbii-2.3.7.1/licences.gshhg.LICENSE.TXT",
+        "licences/gshhg/gpl-3.0.txt": "https://github.com/marutan/terrasoar-packs/releases/download/wdbii-2.3.7.1/licences.gshhg.gpl-3.0.txt",
+        "wdbii.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/wdbii-2.3.7.1/wdbii.gpkg"
+      }
+    },
+    {
+      "id": "naturalearth-10m",
+      "version": "5.1.2.1",
+      "name": "Natural Earth map layers",
+      "description": "Natural Earth's 1:10m rivers, lakes, populated places, roads, railways, airports, ports, time zones, state and province borders, and peaks, with names, each shown from the zoom Natural Earth suggests for it.",
+      "licence": "Public domain (Natural Earth)",
+      "bytes": 79527936,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/naturalearth-10m-5.1.2.1/manifest.json",
+        "sha256": "84e5da6e3f043688d4995e66369d7d1ac9189d3a1fcc59f96908699e9ff35ed4",
+        "bytes": 8161
+      },
+      "files": {
+        "naturalearth-10m.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/naturalearth-10m-5.1.2.1/naturalearth-10m.gpkg"
+      }
+    },
+    {
+      "id": "naturalearth-relief",
+      "version": "2.0.0.1",
+      "name": "Natural Earth I relief map",
+      "description": "Natural Earth I: land cover in natural colours with shaded relief, water bodies and an ocean in soft blue, 21600 × 10800 pixels (about 1.9 km per pixel). A map-like alternative to Blue Marble.",
+      "licence": "Public domain (Natural Earth)",
+      "bytes": 75366400,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/naturalearth-relief-2.0.0.1/manifest.json",
+        "sha256": "a8d20ab180d0d46d194dce0199bee1f6e94dd6f51b1ef3927db561f01c1e7e73",
+        "bytes": 1350
+      },
+      "files": {
+        "naturalearth-relief.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/naturalearth-relief-2.0.0.1/naturalearth-relief.sqlite"
+      }
+    },
+    {
+      "id": "naturalearth-hypsometric",
+      "version": "2.0.0.1",
+      "name": "Natural Earth hypsometric map",
+      "description": "Cross-blended hypsometric tints (lowland greens to highland browns, by height and climate) with shaded relief, water bodies and the ocean bottom's relief, 21600 × 10800 pixels.",
+      "licence": "Public domain (Natural Earth)",
+      "bytes": 69533696,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/naturalearth-hypsometric-2.0.0.1/manifest.json",
+        "sha256": "48a989ca13d42b3ec4c9fbe7b8aa75a438aa873f1637a085d91d2d8071f06e30",
+        "bytes": 1385
+      },
+      "files": {
+        "naturalearth-hypsometric.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/naturalearth-hypsometric-2.0.0.1/naturalearth-hypsometric.sqlite"
+      }
+    },
+    {
+      "id": "naturalearth-shaded-relief",
+      "version": "2.0.0.1",
+      "name": "Natural Earth shaded relief",
+      "description": "Grey shaded relief of the land, 21600 × 10800 pixels: a neutral background, or under a half-transparent layer.",
+      "licence": "Public domain (Natural Earth)",
+      "bytes": 40828928,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/naturalearth-shaded-relief-2.0.0.1/manifest.json",
+        "sha256": "8c697b9fa2dfbbcf2d2fd415c7a2bb2af8a62a708af0181eb67d4581fe10d245",
+        "bytes": 1371
+      },
+      "files": {
+        "naturalearth-shaded-relief.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/naturalearth-shaded-relief-2.0.0.1/naturalearth-shaded-relief.sqlite"
+      }
+    },
+    {
+      "id": "blackmarble",
+      "version": "2016.1",
+      "name": "Black Marble (Earth at night)",
+      "description": "NASA's Black Marble: the Earth's city lights at night from the Suomi NPP satellite, for 2012 and for 2016, each as its own layer, at about 3 km per pixel.",
+      "licence": "Public domain (NASA)",
+      "bytes": 18153472,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/blackmarble-2016.1/manifest.json",
+        "sha256": "af40ba74ca91aa036b34bfbe588babd27b5d7a921fcf767fc22920639153ae68",
+        "bytes": 2570
+      },
+      "files": {
+        "blackmarble-2012.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/blackmarble-2016.1/blackmarble-2012.sqlite",
+        "blackmarble-2016.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/blackmarble-2016.1/blackmarble-2016.sqlite"
+      }
+    },
+    {
+      "id": "ourairports",
+      "version": "2026-11-22.1",
+      "name": "Airports (OurAirports)",
+      "description": "About 72,000 airports, heliports and seaplane bases, their runways and 11,000 navigation aids (VOR, NDB, DME) from OurAirports, as of 2026-11-22. Community data, not for navigation.",
+      "licence": "Public domain (OurAirports, the Unlicense)",
+      "bytes": 16760832,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/ourairports-2026-11-22.1/manifest.json",
+        "sha256": "eb21c6fa159da3a6b2862f969a2b8d8209f888f9820e4370b5ee6dd39df4eaff",
+        "bytes": 3896
+      },
+      "files": {
+        "ourairports.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/ourairports-2026-11-22.1/ourairports.gpkg"
+      }
+    },
+    {
+      "id": "names",
+      "version": "2026.1",
+      "name": "Place names",
+      "description": "Names of populated places and major features (mountains and ranges, lakes, bays and seas, islands, capes, glaciers, falls) as labels: the US Board on Geographic Names' names, from USGS GNIS for the United States and NGA GNS for the rest of the world. Main names only.",
+      "licence": "Public domain (USGS, NGA)",
+      "bytes": 323757508,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/names-2026.1/manifest.json",
+        "sha256": "3e655fad74aceaac566116141c2c58110673a9f15e97bf592ce78a2f77abb50a",
+        "bytes": 7395
+      },
+      "files": {
+        "licences/gns-hydrographic/disclaimer.txt": "https://github.com/marutan/terrasoar-packs/releases/download/names-2026.1/licences.gns-hydrographic.disclaimer.txt",
+        "licences/gns-hypsographic/disclaimer.txt": "https://github.com/marutan/terrasoar-packs/releases/download/names-2026.1/licences.gns-hypsographic.disclaimer.txt",
+        "licences/gns-populated-places/disclaimer.txt": "https://github.com/marutan/terrasoar-packs/releases/download/names-2026.1/licences.gns-populated-places.disclaimer.txt",
+        "licences/gns-undersea/disclaimer.txt": "https://github.com/marutan/terrasoar-packs/releases/download/names-2026.1/licences.gns-undersea.disclaimer.txt",
+        "names.gpkg": "https://github.com/marutan/terrasoar-packs/releases/download/names-2026.1/names.gpkg"
+      }
+    },
+    {
+      "id": "elevation-etopo-30s",
+      "version": "2022.1",
+      "name": "Terrain, finer (ETOPO 2022)",
+      "description": "The Earth's land and sea floor heights from ETOPO 2022 at 30″, about 0.9 km, instead of the base pack's 4.9 km: the Terrain layer shows mountains, valleys and the sea floor in more detail. Replaces the base pack's terrain while installed.",
+      "licence": "CC0-1.0 (NOAA)",
+      "bytes": 461373440,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/elevation-etopo-30s-2022.1/manifest.json",
+        "sha256": "9d0c1ed5643e4de424b44e9542eee60b038c5efbcee71f27c9e44e634d5392b8",
+        "bytes": 1118
+      },
+      "files": {
+        "elevation-etopo-30s.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/elevation-etopo-30s-2022.1/elevation-etopo-30s.sqlite"
+      }
+    },
+    {
+      "id": "gebco-w180-w90",
+      "version": "2026.1",
+      "name": "GEBCO terrain and sea floor, 180° W to 90° W",
+      "description": "The GEBCO 2026 Grid at 15″ (about 460 m): the sea floor and the land, in more detail than the Terrain layer, for the eastern Pacific and western North and South America. One of four regional packs; their GEBCO layer shows every region installed, above the Terrain layer. Not for navigation.",
+      "licence": "Public domain (GEBCO)",
+      "bytes": 356202591,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/gebco-w180-w90-2026.1/manifest.json",
+        "sha256": "8aa206e3e12a84cc42fabb5cc03c39555e3053b323496a889ab72f736aefd48e",
+        "bytes": 1694
+      },
+      "files": {
+        "gebco-2026.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/gebco-w180-w90-2026.1/gebco-2026.sqlite",
+        "licences/gebco/GEBCO_Grid_terms_of_use.pdf": "https://github.com/marutan/terrasoar-packs/releases/download/gebco-w180-w90-2026.1/licences.gebco.GEBCO_Grid_terms_of_use.pdf"
+      }
+    },
+    {
+      "id": "gebco-w90-0",
+      "version": "2026.1",
+      "name": "GEBCO terrain and sea floor, 90° W to 0°",
+      "description": "The GEBCO 2026 Grid at 15″ (about 460 m): the sea floor and the land, in more detail than the Terrain layer, for eastern North and South America and the Atlantic. One of four regional packs; their GEBCO layer shows every region installed, above the Terrain layer. Not for navigation.",
+      "licence": "Public domain (GEBCO)",
+      "bytes": 374028383,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/gebco-w90-0-2026.1/manifest.json",
+        "sha256": "b3a10fc0f51ad12a29bf5486a8e79d19bf9bc4c7cde86144c7bc13cf49800a89",
+        "bytes": 1691
+      },
+      "files": {
+        "gebco-2026.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/gebco-w90-0-2026.1/gebco-2026.sqlite",
+        "licences/gebco/GEBCO_Grid_terms_of_use.pdf": "https://github.com/marutan/terrasoar-packs/releases/download/gebco-w90-0-2026.1/licences.gebco.GEBCO_Grid_terms_of_use.pdf"
+      }
+    },
+    {
+      "id": "gebco-0-e90",
+      "version": "2026.1",
+      "name": "GEBCO terrain and sea floor, 0° to 90° E",
+      "description": "The GEBCO 2026 Grid at 15″ (about 460 m): the sea floor and the land, in more detail than the Terrain layer, for Europe, Africa, the Middle East and the Indian Ocean. One of four regional packs; their GEBCO layer shows every region installed, above the Terrain layer. Not for navigation.",
+      "licence": "Public domain (GEBCO)",
+      "bytes": 384907359,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/gebco-0-e90-2026.1/manifest.json",
+        "sha256": "55753ec1139b400d881bae898c945e6032bd994c11808d76ef0d8230c42d587c",
+        "bytes": 1691
+      },
+      "files": {
+        "gebco-2026.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/gebco-0-e90-2026.1/gebco-2026.sqlite",
+        "licences/gebco/GEBCO_Grid_terms_of_use.pdf": "https://github.com/marutan/terrasoar-packs/releases/download/gebco-0-e90-2026.1/licences.gebco.GEBCO_Grid_terms_of_use.pdf"
+      }
+    },
+    {
+      "id": "gebco-e90-e180",
+      "version": "2026.1",
+      "name": "GEBCO terrain and sea floor, 90° E to 180°",
+      "description": "The GEBCO 2026 Grid at 15″ (about 460 m): the sea floor and the land, in more detail than the Terrain layer, for East and Southeast Asia, Australia and the western Pacific. One of four regional packs; their GEBCO layer shows every region installed, above the Terrain layer. Not for navigation.",
+      "licence": "Public domain (GEBCO)",
+      "bytes": 396441695,
+      "manifest": {
+        "url": "https://github.com/marutan/terrasoar-packs/releases/download/gebco-e90-e180-2026.1/manifest.json",
+        "sha256": "54aa6e4cfc900a42349a7ff540bfa97620a4aececfae1eea966160d7582c1f74",
+        "bytes": 1694
+      },
+      "files": {
+        "gebco-2026.sqlite": "https://github.com/marutan/terrasoar-packs/releases/download/gebco-e90-e180-2026.1/gebco-2026.sqlite",
+        "licences/gebco/GEBCO_Grid_terms_of_use.pdf": "https://github.com/marutan/terrasoar-packs/releases/download/gebco-e90-e180-2026.1/licences.gebco.GEBCO_Grid_terms_of_use.pdf"
+      }
     }
   ]
 }
